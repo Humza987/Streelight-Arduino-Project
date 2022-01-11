@@ -1,6 +1,4 @@
 % Name: Humza Inam
-% Subject: EECS 1011E
-% Project: Major Project - Automatic Streetlight
 % Date: Dec 8th, 2020
 clear all; close all;
 a = arduino('COM3','Uno');
